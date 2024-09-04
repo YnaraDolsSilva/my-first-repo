@@ -1,2 +1,2 @@
 # my-first-repo
-![YnaraFotoIOS] (YnaraFotoIOS.jpg)
+![YnaraFotoIOS](YnaraFotoIOS.jpg)
